@@ -1,4 +1,4 @@
-# Introduction to Linux on Azure
+# Women in Tech: Introduction to Linux on Azure
 
 ## Introduction
 
