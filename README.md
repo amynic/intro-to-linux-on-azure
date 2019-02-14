@@ -147,4 +147,4 @@ You can test you are connected using a simple command to create a folder on the 
 
 ![Test commands on Linux machine](img/testing.JPG)
 
-## [Click here to will learn Linux commands and execute them in the Azure Virtual Machine in the cloud.](unix_shell.md)
+## [Click here to learn Linux commands and execute them in the Azure Virtual Machine in the cloud.](unix_shell.md)
