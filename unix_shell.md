@@ -68,24 +68,24 @@ Now you are going to run a simple batch job!
 
 First create a job
 ```bash
-az batch job create --id myjob1 --pool-id <your pool id>
+az batch job create --id myjob --pool-id <your pool id>
 ```
 
 Next, deploy a task where you print "Hello, world!"
 ```bash
-az batch task create --task-id mytask1 --job-id myjob1 --command-line "/bin/bash -c 'echo Hello, world!'"
+az batch task create --task-id mytask --job-id myjob --command-line "/bin/bash -c 'echo Hello, world!'"
 ```
 
 Print the output of the file locations.
 ```bash
-az batch task file list --job-id myjob1 --task-id mytask1 --output table
+az batch task file list --job-id myjob --task-id mytask --output table
 ```
 You should get something like this:
 ![File list](img/locationoutput11.png)
 
 Download the output of the task.
 ```bash
-az batch task file download --job-id myjob1 --task-id mytask1 --file-path stdout.txt --destination ./stdout.txt
+az batch task file download --job-id myjob --task-id mytask --file-path stdout.txt --destination ./stdout.txt
 ```
 
 Look at the contents of the file
@@ -98,7 +98,7 @@ You can also run jobs in parallel. Here we run four jobs. This will run concurre
 ```bash
 #!/bin/bash
 
-for i in {2..5}
+for i in {1..4}
 do
    az batch task create \
     --task-id mytask$i \
