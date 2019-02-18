@@ -1,6 +1,6 @@
 # Women in Tech: Introduction to Linux on Azure
 
-## [Google slides for Introduction to Linux with Azure](https://docs.google.com/presentation/d/1Kf0gqkoRqnZmLpbkB-6iiQvCZ9o2l-UMAcPv2C6aZOk/edit?usp=sharing)
+## [Workshop slides for Introduction to Linux with Azure 18/02/19](https://docs.google.com/presentation/d/1Kf0gqkoRqnZmLpbkB-6iiQvCZ9o2l-UMAcPv2C6aZOk/edit?usp=sharing)
 
 ## Introduction
 
