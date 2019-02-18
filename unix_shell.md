@@ -111,8 +111,27 @@ do
     --command-line "/bin/bash -c 'echo Hello, world $i!'"
 done
 ```
+Set permission:
+```bash
+chmod 755 myArrayJob.sh
+```
+
+Execute script:
+```bash
+./myArrayJob.sh
+```
+
+Download output:
+```bash
+az batch task file download --job-id myjob --task-id mytask1 --file-path stdout.txt --destination ./stdout1.txt
+```
+
+Print output:
+```bash
+cat stdout1.txt
+```
 
 You can read more on how to create Batch jobs [here](https://docs.microsoft.com/en-us/azure/batch/).
 
-#### License
+### License
 Some material has been taken from [Unix shell course](https://github.com/alexeymorgunov/unixshellcourse) under a CC-BY-NC-SA license.
