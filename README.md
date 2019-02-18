@@ -1,5 +1,7 @@
 # Women in Tech: Introduction to Linux on Azure
 
+## [Google slides for Introduction to Linux with Azure](https://docs.google.com/presentation/d/1Kf0gqkoRqnZmLpbkB-6iiQvCZ9o2l-UMAcPv2C6aZOk/edit?usp=sharing)
+
 ## Introduction
 
 To start this workshop, we will create a Linux Ubuntu Virtual machine (VM) using Microsoft Azure. As this VM will be hosted in the cloud, we will walk through creating ssh keys using the Azure Shell Environment, creating an Ubuntu VM image and connecting to the machine once created
