@@ -66,7 +66,12 @@ Now, click on `Cloud Shell` or the `>_` symbol to launch the command line.
 
 Now you are going to run a simple batch job!
 
-First create a job
+Login to your batch account
+```bash
+az batch account login --name <your batch account name> --resource-group linuxvm --shared-key-auth
+```
+
+Create a job
 ```bash
 az batch job create --id myjob --pool-id <your pool id>
 ```
