@@ -78,7 +78,7 @@ az batch job create --id myjob --pool-id <your pool id>
 
 Next, deploy a task where you print "Hello, world!"
 ```bash
-az batch task create --task-id mytask --job-id myjob --command-line "/bin/bash -c 'echo Hello, world!'"
+az batch task create --task-id mytask --job-id myjob --command-line "/bin/bash -c 'echo Hello, world'"
 ```
 
 Print the output of the file locations.
