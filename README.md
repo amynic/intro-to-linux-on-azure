@@ -4,7 +4,7 @@
 and follow @ResearcHersCode, @AmyKateNicho and @VictoriaCarr_
 
 ![]()
-<img src="img/researcherscode.png" alt="Researc/hers Code Logo" width="250" align="middle"/>
+<img src="img/researcherscode.png" alt="Researc/hers Code Logo" width="150" align="middle"/>
 
 
 ## [Workshop slides for Introduction to Linux with Azure 18/02/19](https://docs.google.com/presentation/d/1Kf0gqkoRqnZmLpbkB-6iiQvCZ9o2l-UMAcPv2C6aZOk/edit?usp=sharing)
