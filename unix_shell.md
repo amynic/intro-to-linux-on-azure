@@ -100,6 +100,13 @@ cat stdout.txt
 ![Hello world](img/helloworld12.png)
 
 You can also run jobs in parallel. Here we run four jobs. This will run concurrently in batches of 2 (as we requested a pool of two cores). Each core can run one job. Here is a bash script that is running the command to print "Hello, world" and the task number.
+
+first lets create your job code file.
+```bash
+cat > myArrayJob.sh
+```
+copy and past the code below and once complete choose ```CTRL + D```
+
 ```bash
 #!/bin/bash
 
