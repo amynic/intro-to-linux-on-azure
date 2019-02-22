@@ -20,7 +20,7 @@ and follow @ResearcHersCode, @AmyKateNicho and @VictoriaCarr_
 To start this workshop, we will create a Linux Ubuntu Virtual machine (VM) using Microsoft Azure. As this VM will be hosted in the cloud, we will walk through creating ssh keys using the Azure Shell Environment, creating an Ubuntu VM image and connecting to the machine once created
 
 ### Pre-requisites
-- Have access to your Microsoft Azure Pass Subscription
+- Have access to a Microsoft Azure Subscription, get it free for 12 months here: [https://azure.microsoft.com/en-gb/free](https://azure.microsoft.com/en-gb/free)
 - Have access to a modern web browser (content tested using Edge and Chrome)
 Getting Setup
 
