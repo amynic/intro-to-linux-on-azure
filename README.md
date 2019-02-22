@@ -7,7 +7,13 @@ and follow @ResearcHersCode, @AmyKateNicho and @VictoriaCarr_
 <img src="img/researcherscode.png" alt="Researc/hers Code Logo" width="150" align="middle"/>
 
 
-## [Workshop slides for Introduction to Linux with Azure 18/02/19](https://docs.google.com/presentation/d/1Kf0gqkoRqnZmLpbkB-6iiQvCZ9o2l-UMAcPv2C6aZOk/edit?usp=sharing)
+## 
+
+## Useful Links
+* [Workshop slides for Introduction to Linux with Azure 18/02/19](https://docs.google.com/presentation/d/1Kf0gqkoRqnZmLpbkB-6iiQvCZ9o2l-UMAcPv2C6aZOk/edit?usp=sharing)
+* [Linux on Azure Documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm/?WT.mc_id=linuxworkshop-github-amynic)
+* [Linux commands](unix_shell.md)
+* [Azure Batch Documentation](https://docs.microsoft.com/en-us/azure/batch/quick-create-cli/?WT.mc_id=linuxworkshop-github-amynic)
 
 ## Introduction
 
@@ -155,5 +161,7 @@ You can test you are connected using a simple command to create a folder on the 
 - Now run `ls` again to view the newly created folder
 
 ![Test commands on Linux machine](img/testing.JPG)
+
+> Find out more about running Linux VM's on Azure here: [Linux on Azure Documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm/?WT.mc_id=linuxworkshop-github-amynic)
 
 ## [Click here to learn Linux commands and execute them in the Azure Virtual Machine in the cloud.](unix_shell.md)
