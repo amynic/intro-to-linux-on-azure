@@ -3,6 +3,8 @@
 This workshop has been a collaboration between **Researc/hers Code** and **Microsoft**. Researc/hers Code supports women in tech and academia by running skills workshops and podcasting the talent of women in tech and research. To find out more about this story: [https://twitter.com/VictoriaCarr_/status/1098488439081783302](https://twitter.com/VictoriaCarr_/status/1098488439081783302)
 and follow [@ResearcHersCode](https://twitter.com/ResearcHersCode), [@AmyKateNicho](https://twitter.com/AmyKateNicho) and [@VictoriaCarr_](https://twitter.com/VictoriaCarr_)
 
+### Check out the GitHub Pages view here: [https://amynic.github.io/intro-to-linux-on-azure/](https://amynic.github.io/intro-to-linux-on-azure/)
+
 ![]()
 <img src="img/researcherscode.png" alt="Researc/hers Code Logo" width="150" align="middle"/>
 
