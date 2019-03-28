@@ -1,13 +1,10 @@
 # Women in Tech: Introduction to Linux on Azure
 
-> This workshop has been a collaboration between **Researc/hers Code** and **Microsoft**. Researc/hers Code supports women in tech and academia by running skills workshops and podcasting the talent of women in tech and research. To find out more about this story: https://twitter.com/VictoriaCarr_/status/1098488439081783302
+This workshop has been a collaboration between **Researc/hers Code** and **Microsoft**. Researc/hers Code supports women in tech and academia by running skills workshops and podcasting the talent of women in tech and research. To find out more about this story: https://twitter.com/VictoriaCarr_/status/1098488439081783302
 and follow @ResearcHersCode, @AmyKateNicho and @VictoriaCarr_
 
 ![]()
 <img src="img/researcherscode.png" alt="Researc/hers Code Logo" width="150" align="middle"/>
-
-
-## 
 
 ## Useful Links
 * [Workshop slides for Introduction to Linux with Azure 18/02/19](https://docs.google.com/presentation/d/1Kf0gqkoRqnZmLpbkB-6iiQvCZ9o2l-UMAcPv2C6aZOk/edit?usp=sharing)
