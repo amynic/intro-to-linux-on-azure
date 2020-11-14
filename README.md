@@ -10,20 +10,20 @@ and follow [@ResearcHersCode](https://twitter.com/ResearcHersCode), [@AmyKateNic
 
 ## Useful Links
 * [Workshop slides for Introduction to Linux with Azure 18/02/19](https://docs.google.com/presentation/d/1Kf0gqkoRqnZmLpbkB-6iiQvCZ9o2l-UMAcPv2C6aZOk/edit?usp=sharing)
-* [Linux on Azure Documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm/?WT.mc_id=linuxworkshop-github-amynic)
+* [Linux on Azure Documentation](https://docs.microsoft.com/azure/virtual-machines/linux/tutorial-manage-vm/?WT.mc_id=aiml-0000-amynic)
 * [Linux commands](unix_shell.md)
-* [Azure Batch Documentation](https://docs.microsoft.com/en-us/azure/batch/quick-create-cli/?WT.mc_id=linuxworkshop-github-amynic)
+* [Azure Batch Documentation](https://docs.microsoft.com/azure/batch/quick-create-cli/?WT.mc_id=aiml-0000-amynic)
 
 ## Introduction
 
 To start this workshop, we will create a Linux Ubuntu Virtual machine (VM) using Microsoft Azure. As this VM will be hosted in the cloud, we will walk through creating ssh keys using the Azure Shell Environment, creating an Ubuntu VM image and connecting to the machine once created
 
 ### Pre-requisites
-- Have access to a Microsoft Azure Subscription, get it free for 12 months here: [https://azure.microsoft.com/en-gb/free](https://azure.microsoft.com/en-gb/free)
+- Have access to a Microsoft Azure Subscription, get it free for 12 months here: [https://azure.microsoft.com/free?WT.mc_id=aiml-0000-amynic](https://azure.microsoft.com/free?WT.mc_id=aiml-0000-amynic)
 - Have access to a modern web browser (content tested using Edge and Chrome)
 Getting Setup
 
-Go to [https://azure.microsoft.com/](https://azure.microsoft.com/) and sign in to the Azure Portal in the top right corner using the email and password you created whilst redeeming the azure pass voucher code.
+Go to [https://azure.microsoft.com/?WT.mc_id=aiml-0000-amynic](https://azure.microsoft.com/?WT.mc_id=aiml-0000-amynic) and sign in to the Azure Portal in the top right corner using the email and password you created whilst redeeming the azure pass voucher code.
 
 ![Azure Portal](img/portal.jpg)
 
@@ -161,6 +161,6 @@ You can test you are connected using a simple command to create a folder on the 
 
 ![Test commands on Linux machine](img/testing.JPG)
 
-> Find out more about running Linux VM's on Azure here: [Linux on Azure Documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm/?WT.mc_id=linuxworkshop-github-amynic)
+> Find out more about running Linux VM's on Azure here: [Linux on Azure Documentation](https://docs.microsoft.com/azure/virtual-machines/linux/tutorial-manage-vm/?WT.mc_id=aiml-0000-amynic)
 
 ## [Click here to learn Linux commands and execute them in the Azure Virtual Machine in the cloud.](unix_shell.md)
